@@ -29,7 +29,7 @@ public class sem1_3 {
                 i--;
             }
         }
-        System.out.println(Arrays.toString(array));
+        System.out.println(Arrays.toString(array)); //toString перевод к строке
     }
 }
 
